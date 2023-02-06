@@ -16,19 +16,20 @@ function App() {
       id: 1,
       title: "My first post",
       datetime: "july, 02-02-23",
-      body: "lorom ipsum amet is most popular name in programming and he is lucky for me becuase popularity in such greate industry is amaizing",
+      body: "lorom ipsum dolor amet  consectetur. adipicising elit",
     },
     {
       id: 2,
       title: "My second post",
       datetime: "september, 02-03-23",
-      body: "lorom ipsum amet is most popular name in java and he is lucky for me becuase popularity in such greate industry is amaizing",
+      body: "lorom ipsum amet consectetur. adipicising elit",
     },
+
     {
       id: 3,
       title: "My third post",
       datetime: "november, 02-01-23",
-      body: "lorom ipsum amet is most popular name in pphi and he is lucky for me becuase popularity in such greate industry is amaizing",
+      body: "lorom ipsum amet consectetur. adipicising elit",
     },
   ]);
   const [postTitle, setPostTitle] = useState("");
